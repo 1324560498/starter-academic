@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 余书帆
+title: Semion Yu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 工学学士学位
+role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 湖北理工学院
+- name: HuBei Politechnique University
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
