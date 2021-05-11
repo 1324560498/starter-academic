@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Semion Yu
+title: 余书帆
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 
+role: 轨道交通信号与控制 工学学士
 
 # Organizations/Affiliations to show in About widget
 organizations:
