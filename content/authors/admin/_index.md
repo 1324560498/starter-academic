@@ -9,7 +9,7 @@ superuser: true
 role: 轨道交通信号与控制 工学学士
 
 # Organizations/Affiliations to show in About widget
-organizations:
+organizations:共产主义青年团
 - name: HuBei Politechnique University
   url: http://www.hbpu.edu.cn/
 
@@ -17,13 +17,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-兴趣:
+interests:
 - 电路理论
 - 计算机编程
 - 历史文献
 
 # Education to show in About widget
-Education:
+education:
   courses:
   - course:轨道交通信号与控制 工学学士
     institution:湖北理工学院
