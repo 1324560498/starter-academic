@@ -9,7 +9,7 @@ superuser: true
 role: 轨道交通信号与控制 工学学士
 
 # Organizations/Affiliations to show in About widget
-organizations:共产主义青年团
+organizations:
 - name: HuBei Politechnique University
   url: http://www.hbpu.edu.cn/
 
