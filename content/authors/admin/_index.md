@@ -18,16 +18,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- 电路理论
-- 计算机编程
-- 历史文献
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course:轨道交通信号与控制 工学学士
-    institution:湖北理工学院
-    year:2021
+  - course: BSc in HuBei Politechnique University
+    institution: Railway Communicate Signal and Control
+    year: 2021
 
 
 # Social/Academic Networking
@@ -59,7 +59,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "1324560498@qq.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
