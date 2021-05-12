@@ -23,11 +23,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 - 历史文献
 
 # Education to show in About widget
-教育背景:
+Education:
   courses:
-  - course: 轨道交通信号与控制 工学学士
-    institution: 湖北理工学院
-    year: 2021
+  - course:轨道交通信号与控制 工学学士
+    institution:湖北理工学院
+    year:2021
 
 
 # Social/Academic Networking
